@@ -1,1 +1,1 @@
-# myproject
+# This Python-based adaptive threat intelligence platform prioritizes threats using a machine learning model trained on historical attack data and generates YARA rules for malware detection, offering a Flask API endpoint to serve prioritized threat data and a basic HTML dashboard.
